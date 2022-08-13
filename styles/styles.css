@@ -16,3 +16,20 @@ body {
     text-align: center;
     font-weight:bold;
 }
+
+.Odd, .Odd2, .five {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(214, 129, 163);
+}
+
+#Two{
+     color:blue;
+     font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
